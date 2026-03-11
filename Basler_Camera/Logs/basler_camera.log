@@ -1,0 +1,4 @@
+2026-03-11 19:48:51,414 | ERROR | Basler Runtime Error: QueueBuffer() failed: Device has been removed from the PC. : RuntimeException thrown (file 'PylonUsbStream.cpp', line 371)
+2026-03-11 19:48:51,685 | ERROR | Camera reconnected
+2026-03-11 19:48:53,940 | ERROR | Camera reconnected
+2026-03-11 19:48:56,192 | ERROR | Camera reconnected
